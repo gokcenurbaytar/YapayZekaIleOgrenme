@@ -1,1 +1,1 @@
-# YapayZeka-leOgrenme
+# YapayZekaIleOgrenme
